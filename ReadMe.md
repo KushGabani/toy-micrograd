@@ -5,4 +5,4 @@
 A tiny Autograd engine that implements backpropagation (reverse-mode autodiff) and a small MLP library on top of it with a PyTorch-like API.
 With only about 150 lines of code, the engine operates over scalar values,
 
-![Neural Network Graph](https://github.com/kushgabani/toy-micrograd/blob/main/graph.png?raw=true)
+![Neural Network Graph](graph.png)
